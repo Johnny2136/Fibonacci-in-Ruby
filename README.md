@@ -1,4 +1,4 @@
-Fibonachi-in-ruby
+Fibonacci-in-ruby
 =================
 
 Test repository
