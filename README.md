@@ -1,4 +1,4 @@
-# Shields [![npm version](http://img.shields.io/npm/v/gh-badges.svg)](https://npmjs.org/package/gh-badges) [![build status](http://img.shields.io/travis/badges/gh-badges.svg)](https://travis-ci.org/badges/gh-badges)
+# Shields [![GitHub stars](https://img.shields.io/github/stars/Johnny2136/Fibonacci-in-Ruby)](https://github.com/Johnny2136/Fibonacci-in-Ruby/stargazers)
 
 Fibonacci-in-ruby
 =================
