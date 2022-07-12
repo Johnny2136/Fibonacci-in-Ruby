@@ -1,4 +1,5 @@
 # Shields [![GitHub stars](https://img.shields.io/github/stars/Johnny2136/Fibonacci-in-Ruby)](https://github.com/Johnny2136/Fibonacci-in-Ruby/stargazers)[![GitHub forks](https://img.shields.io/github/forks/Johnny2136/Fibonacci-in-Ruby)](https://github.com/Johnny2136/Fibonacci-in-Ruby/network)[![GitHub issues](https://img.shields.io/github/issues/Johnny2136/Fibonacci-in-Ruby)](https://github.com/Johnny2136/Fibonacci-in-Ruby/issues)[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FJohnny2136%2FFibonacci-in-Ruby)
+[![GitHub test](https://img.shields.io/badge/Test-A%20Test%20Message-green)
 
 Fibonacci-in-ruby
 =================
