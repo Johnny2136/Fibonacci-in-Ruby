@@ -1,5 +1,5 @@
 # Shields [![GitHub stars](https://img.shields.io/github/stars/Johnny2136/Fibonacci-in-Ruby)](https://github.com/Johnny2136/Fibonacci-in-Ruby/stargazers)
-https://img.shields.io/github/forks/Johnny2136/Fibonacci-in-Ruby
+[![GitHub forks](https://img.shields.io/github/forks/Johnny2136/Fibonacci-in-Ruby)](https://github.com/Johnny2136/Fibonacci-in-Ruby/network)
 
 Fibonacci-in-ruby
 =================
